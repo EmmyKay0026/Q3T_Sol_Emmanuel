@@ -18,7 +18,7 @@ umi.use(signerIdentity(signer));
 
 (async () => {
   try {
-    // Follow this JSON structure
+    // Follow this JSON structures
     // https://docs.metaplex.com/programs/token-metadata/changelog/v1.0#json-structure
 
     const image =
